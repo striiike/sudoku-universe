@@ -4,12 +4,10 @@ This is a sudoku-universe solver that uses Tesseract OCR to read the sudoku puzz
 
 ## Requirements
 
-- Python 3.6+
 - Tesseract OCR
 - PyAutoGUI
 - PyWin32
 - Pillow
-- tqdm
 
 ## Usage
 
